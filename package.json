@@ -1,0 +1,22 @@
+{
+  "name": "store-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Christopher96u/express-api.git"
+  },
+  "author": "Christopher Menendez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Christopher96u/express-api/issues"
+  },
+  "homepage": "https://github.com/Christopher96u/express-api#readme",
+  "devDependencies": {
+    "prettier": "^2.3.2"
+  }
+}
