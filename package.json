@@ -35,5 +35,10 @@
     "eslint-plugin-security": "^1.4.0",
     "nodemon": "^2.0.12",
     "prettier": "^2.3.2"
+  },
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "joi": "^17.4.1",
+    "winston": "^3.3.3"
   }
 }
